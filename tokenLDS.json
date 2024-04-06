@@ -1,0 +1,24 @@
+{
+    "name": "Laika Dog Space",
+    "symbol": "LDS",
+    "description": "",
+    "seller_fee_basis_points": 0,
+    "image": "https://pbs.twimg.com/profile_images/1775882067110137856/-v_SQQpJ.jpg",
+    "external_url": "https://x.com/laykadogspace",
+    "attributes": [],
+    "collection": {},
+    "properties": {
+        "files": [
+            {
+                "uri": "https://pbs.twimg.com/profile_images/1775882067110137856/-v_SQQpJ.jpg",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "7XafzPkWRT1atdccyxHqenNBjhTdvwc9BW8vHZRMuwwY",
+                "share": 100
+            }
+        ]
+    }
+}
